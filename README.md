@@ -1,5 +1,6 @@
 # Champlain College Senior Capstone   
-Brianna Guest, Isaac Reeves, Liam Sweeney
+Team Members: Brianna Guest, Isaac Reeves, Liam Sweeney
+Advisors: Devin Paden
 ## The Topic
 This capstone will feature the designing and management of a home network created in the likeness of a business that will be monitored using a SIEM such as Splunk. This would involve using a list of the IP addresses on the network and monitoring the general data of our apartment.
 ## Overview
