@@ -18,5 +18,7 @@ This project would begin with the restructuring of the network to incorporate th
 * [LinkedIn](https://www.linkedin.com/in/briannaguest/)
 
 **Isaac Reeves**
+* [LinkedIn](https://www.linkedin.com/in/isaac-reeves-47b625171/)
 
 **Liam Sweeney**
+* [LinkedIn](https://www.linkedin.com/in/liam-b-sweeney/)
